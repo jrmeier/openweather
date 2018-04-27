@@ -13,7 +13,7 @@ Install the requirements
 pip3 install -r requirements.txt
 ```
 
-Add your appid from OpenWeather.com to app.py
+Add your appid from [OpenWeatherMap.org](https://openweathermap.org/current) to app.py
 
 ## Run app
 
